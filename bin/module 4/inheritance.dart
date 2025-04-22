@@ -1,4 +1,4 @@
-/*class father{
+class father{
   String name;
   String land = '10 bigha';
   String bike = 'honda';
@@ -21,4 +21,4 @@ class son extends father{
     super.incomeSource();
   }
 }
-/*/
+
