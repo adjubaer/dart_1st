@@ -9,3 +9,9 @@
 //git push origin branch name :
 //git remote add origin "link" : link er oikhane github er link ta dite hobe ja project er sathe connect hoy
 //git push u origin main :
+
+
+//.......................................................
+//git add .
+//git commit -m "any comment"
+//git push
