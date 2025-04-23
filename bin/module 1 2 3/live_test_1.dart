@@ -22,6 +22,3 @@ void main() {
 
   print(averages);
 }
-//git add .
-//git commit -m "any comment"
-//git push
